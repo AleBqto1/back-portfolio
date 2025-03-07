@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "markers",
+  "info": {
+    "singularName": "marker",
+    "pluralName": "markers",
+    "displayName": "markers",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "markers": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "json"
+    }
+  }
+}
